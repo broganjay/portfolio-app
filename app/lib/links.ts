@@ -16,5 +16,10 @@ export const links =
             "name": "Contact",
             "href": "/contact",
             "icon": HomeIcon
+        },
+        {
+            "name": "Projects",
+            "href": "/projects",
+            "icon": UserGroupIcon
         }
     ]
